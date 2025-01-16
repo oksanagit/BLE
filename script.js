@@ -3,7 +3,7 @@ let ledState = false;
 
 let xCharacteristic, yCharacteristic, zCharacteristic, ledCharacteristic;
 
-const serviceUUID = "19b10000-e8f2-537e-4f6c-d104768a1214";
+const serviceUUID = "19b10000-e8f2-537e-4f6c-d104768a1200";
 
 const xCharacteristicUUID = "19b10001-e8f2-537e-4f6c-d104768a1214";
 const yCharacteristicUUID = "19b10002-e8f2-537e-4f6c-d104768a1214";
